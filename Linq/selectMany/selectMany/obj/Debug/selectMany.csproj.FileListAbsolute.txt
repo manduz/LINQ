@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\selectMany\selectMany\bin\Debug\selectMany.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\selectMany\selectMany\bin\Debug\selectMany.exe
+C:\EmekWebRepo\C#\LINQ\Linq\selectMany\selectMany\bin\Debug\selectMany.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\selectMany\selectMany\obj\Debug\selectMany.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\selectMany\selectMany\obj\Debug\selectMany.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\selectMany\selectMany\obj\Debug\selectMany.exe
+C:\EmekWebRepo\C#\LINQ\Linq\selectMany\selectMany\obj\Debug\selectMany.pdb
