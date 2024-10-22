@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\example1\example1\bin\Debug\example1.exe.config
+C:\EmekWebRepo\C#\LINQ\example1\example1\bin\Debug\example1.exe
+C:\EmekWebRepo\C#\LINQ\example1\example1\bin\Debug\example1.pdb
+C:\EmekWebRepo\C#\LINQ\example1\example1\obj\Debug\example1.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\example1\example1\obj\Debug\example1.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\example1\example1\obj\Debug\example1.exe
+C:\EmekWebRepo\C#\LINQ\example1\example1\obj\Debug\example1.pdb
