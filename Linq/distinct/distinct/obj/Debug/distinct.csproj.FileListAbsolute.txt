@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\distinct\distinct\bin\Debug\distinct.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\distinct\distinct\bin\Debug\distinct.exe
+C:\EmekWebRepo\C#\LINQ\Linq\distinct\distinct\bin\Debug\distinct.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\distinct\distinct\obj\Debug\distinct.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\distinct\distinct\obj\Debug\distinct.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\distinct\distinct\obj\Debug\distinct.exe
+C:\EmekWebRepo\C#\LINQ\Linq\distinct\distinct\obj\Debug\distinct.pdb

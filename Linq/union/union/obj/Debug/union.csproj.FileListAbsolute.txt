@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\union\union\bin\Debug\union.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\union\union\bin\Debug\union.exe
+C:\EmekWebRepo\C#\LINQ\Linq\union\union\bin\Debug\union.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\union\union\obj\Debug\union.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\union\union\obj\Debug\union.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\union\union\obj\Debug\union.exe
+C:\EmekWebRepo\C#\LINQ\Linq\union\union\obj\Debug\union.pdb

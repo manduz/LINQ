@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\concat\concat\bin\Debug\concat.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\concat\concat\bin\Debug\concat.exe
+C:\EmekWebRepo\C#\LINQ\Linq\concat\concat\bin\Debug\concat.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\concat\concat\obj\Debug\concat.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\concat\concat\obj\Debug\concat.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\concat\concat\obj\Debug\concat.exe
+C:\EmekWebRepo\C#\LINQ\Linq\concat\concat\obj\Debug\concat.pdb

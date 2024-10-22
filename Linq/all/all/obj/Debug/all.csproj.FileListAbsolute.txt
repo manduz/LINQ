@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\all\all\obj\Debug\all.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\all\all\obj\Debug\all.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\all\all\bin\Debug\all.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\all\all\bin\Debug\all.exe
+C:\EmekWebRepo\C#\LINQ\Linq\all\all\bin\Debug\all.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\all\all\obj\Debug\all.exe
+C:\EmekWebRepo\C#\LINQ\Linq\all\all\obj\Debug\all.pdb

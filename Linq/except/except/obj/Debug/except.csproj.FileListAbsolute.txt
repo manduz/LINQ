@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\except\except\bin\Debug\except.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\except\except\bin\Debug\except.exe
+C:\EmekWebRepo\C#\LINQ\Linq\except\except\bin\Debug\except.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\except\except\obj\Debug\except.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\except\except\obj\Debug\except.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\except\except\obj\Debug\except.exe
+C:\EmekWebRepo\C#\LINQ\Linq\except\except\obj\Debug\except.pdb

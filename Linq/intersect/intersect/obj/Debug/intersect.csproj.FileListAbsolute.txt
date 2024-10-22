@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\intersect\intersect\bin\Debug\intersect.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\intersect\intersect\bin\Debug\intersect.exe
+C:\EmekWebRepo\C#\LINQ\Linq\intersect\intersect\bin\Debug\intersect.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\intersect\intersect\obj\Debug\intersect.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\intersect\intersect\obj\Debug\intersect.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\intersect\intersect\obj\Debug\intersect.exe
+C:\EmekWebRepo\C#\LINQ\Linq\intersect\intersect\obj\Debug\intersect.pdb
