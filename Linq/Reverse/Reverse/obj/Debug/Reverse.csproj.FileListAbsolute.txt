@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\Reverse\Reverse\bin\Debug\Reverse.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\Reverse\Reverse\bin\Debug\Reverse.exe
+C:\EmekWebRepo\C#\LINQ\Linq\Reverse\Reverse\bin\Debug\Reverse.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\Reverse\Reverse\obj\Debug\Reverse.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\Reverse\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\Reverse\Reverse\obj\Debug\Reverse.exe
+C:\EmekWebRepo\C#\LINQ\Linq\Reverse\Reverse\obj\Debug\Reverse.pdb
