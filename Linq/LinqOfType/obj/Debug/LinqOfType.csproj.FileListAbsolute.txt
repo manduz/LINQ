@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\LinqOfType\LinqOfType\bin\Debug\LinqOfType.exe.config
+C:\EmekWebRepo\C#\LINQ\LinqOfType\LinqOfType\bin\Debug\LinqOfType.exe
+C:\EmekWebRepo\C#\LINQ\LinqOfType\LinqOfType\bin\Debug\LinqOfType.pdb
+C:\EmekWebRepo\C#\LINQ\LinqOfType\LinqOfType\obj\Debug\LinqOfType.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\LinqOfType\LinqOfType\obj\Debug\LinqOfType.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\LinqOfType\LinqOfType\obj\Debug\LinqOfType.exe
+C:\EmekWebRepo\C#\LINQ\LinqOfType\LinqOfType\obj\Debug\LinqOfType.pdb

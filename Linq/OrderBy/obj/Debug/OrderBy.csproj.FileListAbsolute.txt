@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\OrderBy\bin\Debug\OrderBy.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\OrderBy\bin\Debug\OrderBy.exe
+C:\EmekWebRepo\C#\LINQ\Linq\OrderBy\bin\Debug\OrderBy.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\OrderBy\obj\Debug\OrderBy.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\OrderBy\obj\Debug\OrderBy.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\OrderBy\obj\Debug\OrderBy.exe
+C:\EmekWebRepo\C#\LINQ\Linq\OrderBy\obj\Debug\OrderBy.pdb

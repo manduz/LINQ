@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\OrderByDescending\OrderByDescending\bin\Debug\OrderByDescending.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\OrderByDescending\OrderByDescending\bin\Debug\OrderByDescending.exe
+C:\EmekWebRepo\C#\LINQ\Linq\OrderByDescending\OrderByDescending\bin\Debug\OrderByDescending.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\OrderByDescending\OrderByDescending\obj\Debug\OrderByDescending.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\OrderByDescending\OrderByDescending\obj\Debug\OrderByDescending.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\OrderByDescending\OrderByDescending\obj\Debug\OrderByDescending.exe
+C:\EmekWebRepo\C#\LINQ\Linq\OrderByDescending\OrderByDescending\obj\Debug\OrderByDescending.pdb
