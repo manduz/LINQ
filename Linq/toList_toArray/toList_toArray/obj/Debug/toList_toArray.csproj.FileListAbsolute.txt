@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\toList_toArray\toList_toArray\bin\Debug\toList_toArray.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\toList_toArray\toList_toArray\bin\Debug\toList_toArray.exe
+C:\EmekWebRepo\C#\LINQ\Linq\toList_toArray\toList_toArray\bin\Debug\toList_toArray.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\toList_toArray\toList_toArray\obj\Debug\toList_toArray.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\toList_toArray\toList_toArray\obj\Debug\toList_toArray.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\toList_toArray\toList_toArray\obj\Debug\toList_toArray.exe
+C:\EmekWebRepo\C#\LINQ\Linq\toList_toArray\toList_toArray\obj\Debug\toList_toArray.pdb

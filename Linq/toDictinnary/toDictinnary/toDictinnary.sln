@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toDictinnary", "toDictinnary.csproj", "{62C75A2C-08E8-47D8-AF31-4F911B0DA4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C75A2C-08E8-47D8-AF31-4F911B0DA4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C75A2C-08E8-47D8-AF31-4F911B0DA4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C75A2C-08E8-47D8-AF31-4F911B0DA4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C75A2C-08E8-47D8-AF31-4F911B0DA4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6BA51E-2489-4786-B5A5-0D3A9168289F}
+	EndGlobalSection
+EndGlobal

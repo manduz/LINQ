@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\toDictinnary\toDictinnary\bin\Debug\toDictinnary.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\toDictinnary\toDictinnary\bin\Debug\toDictinnary.exe
+C:\EmekWebRepo\C#\LINQ\Linq\toDictinnary\toDictinnary\bin\Debug\toDictinnary.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\toDictinnary\toDictinnary\obj\Debug\toDictinnary.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\toDictinnary\toDictinnary\obj\Debug\toDictinnary.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\toDictinnary\toDictinnary\obj\Debug\toDictinnary.exe
+C:\EmekWebRepo\C#\LINQ\Linq\toDictinnary\toDictinnary\obj\Debug\toDictinnary.pdb
