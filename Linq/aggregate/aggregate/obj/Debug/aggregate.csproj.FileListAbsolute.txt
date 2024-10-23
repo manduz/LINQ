@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\aggregate\aggregate\bin\Debug\aggregate.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\aggregate\aggregate\bin\Debug\aggregate.exe
+C:\EmekWebRepo\C#\LINQ\Linq\aggregate\aggregate\bin\Debug\aggregate.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\aggregate\aggregate\obj\Debug\aggregate.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\aggregate\aggregate\obj\Debug\aggregate.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\aggregate\aggregate\obj\Debug\aggregate.exe
+C:\EmekWebRepo\C#\LINQ\Linq\aggregate\aggregate\obj\Debug\aggregate.pdb
