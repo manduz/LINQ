@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\groupby\groupBy\bin\Debug\groupBy.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\groupby\groupBy\bin\Debug\groupBy.exe
+C:\EmekWebRepo\C#\LINQ\Linq\groupby\groupBy\bin\Debug\groupBy.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\groupby\groupBy\obj\Debug\groupBy.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\groupby\groupBy\obj\Debug\groupBy.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\groupby\groupBy\obj\Debug\groupBy.exe
+C:\EmekWebRepo\C#\LINQ\Linq\groupby\groupBy\obj\Debug\groupBy.pdb

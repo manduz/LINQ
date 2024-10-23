@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\LINQ\Linq\groupbyMultiple\groupbyMultiple\bin\Debug\groupbyMultiple.exe.config
+C:\EmekWebRepo\C#\LINQ\Linq\groupbyMultiple\groupbyMultiple\bin\Debug\groupbyMultiple.exe
+C:\EmekWebRepo\C#\LINQ\Linq\groupbyMultiple\groupbyMultiple\bin\Debug\groupbyMultiple.pdb
+C:\EmekWebRepo\C#\LINQ\Linq\groupbyMultiple\groupbyMultiple\obj\Debug\groupbyMultiple.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\LINQ\Linq\groupbyMultiple\groupbyMultiple\obj\Debug\groupbyMultiple.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\LINQ\Linq\groupbyMultiple\groupbyMultiple\obj\Debug\groupbyMultiple.exe
+C:\EmekWebRepo\C#\LINQ\Linq\groupbyMultiple\groupbyMultiple\obj\Debug\groupbyMultiple.pdb
